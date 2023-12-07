@@ -1,5 +1,5 @@
 
- ## Oiii eu sou a Luiz Carlos :alien: , entusiasta de tecnologia e apaixonado por jogos :video_game:
+ ## Oiii eu sou a Luiz Carlos, entusiasta de tecnologia e apaixonado por jogos :video_game:
 
 
 
