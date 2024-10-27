@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/luixcarlos00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    <a href="[https://www.linkedin.com/in/luixcarlos00](https://luizcarlos-cv.netlify.app/#/)" target="_blank">
+    <a href="https://luizcarlos-cv.netlify.app/#/" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/012/591/917/original/programmer-icon-illustration-vector.jpg" height="35" alt="Portifolho  logo"  />
   </a>
  
