@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h3 align="left">Ola sou Luiz Carlos, progamador, desenvolvedor e apaixonados por jogos</h3>
+<h3 align="left">Ola sou Luiz Carlos, progamador, desenvolvedor e apaixonados por jogos</h3> <br>
+ 
 
 ###
 
@@ -43,7 +44,13 @@
   <a href="https://www.linkedin.com/in/luixcarlos00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+    <a href="[https://www.linkedin.com/in/luixcarlos00](https://luizcarlos-cv.netlify.app/#/)" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/012/591/917/original/programmer-icon-illustration-vector.jpg" height="35" alt="Portifolho  logo"  />
+  </a>
+ 
    <img src="https://profile-counter.glitch.me/LuixCarlos00/count.svg?"  />
+
+ 
 </div>
 
   
